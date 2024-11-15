@@ -1,4 +1,4 @@
-module pokestats/pokestats-backend
+module pokestats/pokestats
 
 go 1.23.2
 
